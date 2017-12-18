@@ -34,7 +34,7 @@
 	<br>
 	<br>
 
-<p><center>计算机导论——专业排版----<a href="https://github.com/shadowswords/Room/blob/master/%E8%AE%A1%E6%9C%BA703-%E5%88%98%E5%AD%A6%E8%AD%A6.pdf">文件下载</a><br>
+<p><center>计算机导论——专业排版----<a href="https://github.com/shadowswords/Room/raw/master/%E8%AE%A1%E6%9C%BA703-%E5%88%98%E5%AD%A6%E8%AD%A6.pdf">文件下载</a><br>
 计算机导论——Excel数据处理----<a href="计机703刘学警_Excel数据处理实验.xslx.xlsx">文件下载</a><br>
 计算机导论——我的家乡.ppt----<a href="计导：计机703-刘学警主题：我的家乡.pptx">文件下载</a><br>
 <a href="Untitled-3.html">我的家乡网页版</a><br>
