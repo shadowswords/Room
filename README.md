@@ -38,7 +38,7 @@
 计算机导论——Excel数据处理----<a href="计机703刘学警_Excel数据处理实验.xslx.xlsx">文件下载</a><br>
 计算机导论——我的家乡.ppt----<a href="计导：计机703-刘学警主题：我的家乡.pptx">文件下载</a><br>
 <a href="Untitled-3.html">我的家乡网页版</a><br>
-<a href="Untitled-5.html">C程序设计课程作业的C程序</a>
+<a href="https://github.com/shadowswords/C-language/tree/master">C程序设计课程作业的C程序</a>
 </center></p>
 	
 	
