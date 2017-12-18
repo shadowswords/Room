@@ -1,0 +1,22 @@
+#include <stdio.h>
+int main()
+{
+	int i,j=1, C, n;
+	long long N;
+	float f[21] = { 0,0,1,2};
+	for (i = 4; i <= 20; i++)
+		f[i] = (i - 1)*(f[i - 1] + f[i - 2]);
+	printf("请输入测试实例个数：");
+	scanf_s("%d", &C);
+	printf("请输入测试实例的值：");
+	for(i=0;i<C;i++)
+	{
+		N = 1;
+		scanf_s("%d", &n);
+		for (j = 2; j <= n; j++)
+			N = j*N;
+		printf("依次的测试结果为：");
+		printf("%6.2f%c\n",f[n]/N*100,37);
+	}
+	return 0;
+}
